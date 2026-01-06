@@ -4,7 +4,7 @@
     $nElems = intval(chop(fgets(STDIN)));
     if ($nElems == 0) 
     {
-        echo "";
+        echo "Empty arrays not allowed\r\n";
         fgetc(STDIN);
         exit(1);
     }
