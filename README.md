@@ -1,4 +1,4 @@
-FindMaxElemOfArray. PHP Tutorials. Simple Input/Output. Arrays. Algorithms. Console Application. 
+FindMaxElemOfArray. PHP Tutorials. Simple Input/Output. Arrays. Algorithms. Console Application.
 The console application project is written in PHP using the Apache NetBeans integrated development environment (the Microsoft Visual Studio Code editor). 
 It features simple input/output. It also handles arrays and random numbers. Finding the maximum element in an array is also possible.
 The program does the following:
